@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-03T03:57:45Z" name="Suite" finished-at="2021-01-03T04:03:51Z" duration-ms="366567">
+    <groups>
+    </groups>
+    <test started-at="2021-01-03T03:57:45Z" name="Test" finished-at="2021-01-03T04:03:51Z" duration-ms="366567">
+      <class name="com.qa.spicejet.test.TestPassengerDetails">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T03:57:45Z" name="setUp" finished-at="2021-01-03T04:03:22Z" duration-ms="337306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="passengerDetailsPageTitleTest()[pri:1, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T04:03:22Z" name="passengerDetailsPageTitleTest" finished-at="2021-01-03T04:03:22Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passengerDetailsPageTitleTest -->
+        <test-method signature="contactDetailsTest()[pri:2, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T04:03:22Z" name="contactDetailsTest" finished-at="2021-01-03T04:03:32Z" duration-ms="9956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactDetailsTest -->
+        <test-method signature="testPassDetails()[pri:3, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T04:03:32Z" name="testPassDetails" finished-at="2021-01-03T04:03:40Z" duration-ms="7736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPassDetails -->
+        <test-method signature="contactDetailsRepeatTest()[pri:4, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T04:03:40Z" name="contactDetailsRepeatTest" finished-at="2021-01-03T04:03:49Z" duration-ms="8680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactDetailsRepeatTest -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.spicejet.test.TestPassengerDetails@7dc0f706]" started-at="2021-01-03T04:03:49Z" name="quit" finished-at="2021-01-03T04:03:51Z" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.spicejet.test.TestPassengerDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
